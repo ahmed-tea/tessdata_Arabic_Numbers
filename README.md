@@ -1,0 +1,1 @@
+# tesseract_langdata_Arabic_No
