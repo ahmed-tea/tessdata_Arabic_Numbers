@@ -1,1 +1,1 @@
-# tesseract_langdata_Arabic_No
+# tesseract-OCR langdata_Arabic_No
