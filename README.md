@@ -1,4 +1,4 @@
-# Tesseract OCR 4.00.00alpha tessdara for Arabic Numbers only
+# Tesseract OCR 4.00.00alpha tessdata for Arabic Numbers only
 
 ### Definition
 * AEN Arabic Eastern Numbers {ِ123456789}
